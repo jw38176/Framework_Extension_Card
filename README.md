@@ -41,7 +41,7 @@ For the second generation, I have decided to use this as the adapter instead:
 
 <img src="/img/adapter2.png"  width="400" height="400">
 
-This has its own drawbacks, the worst being that since the extension card is so small, it can not accommodate the entire adapter leaving a coil sticking out. However, since most people have one of these lying around and it is considerably thinner than the last adapter, I think this would be the best option for now. 
+This has its own drawbacks, the worst being that since the extension card is so small, it can not accommodate the entire adapter leaving a coil sticking out. However, since most people have one of these lying around, the majority of these adapters are also fitted with DACs, and it is considerably thinner than the last adapter, I think this would be the best option for now. 
 
 To make the prototype more realistic, I found a model of a generic USB-C to 3.5mm audio jack adapter and used it as the reference. 
 
